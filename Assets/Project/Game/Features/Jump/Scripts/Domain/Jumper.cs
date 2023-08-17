@@ -1,0 +1,19 @@
+﻿namespace Jump.Domain
+{
+    public class Jumper
+    {
+        private readonly IForcer _forcer;
+        private readonly float _forceAmount;
+
+        public Jumper(IForcer forcer, float forceAmount)
+        {
+            _forcer = forcer;
+            _forceAmount = forceAmount;
+        }
+
+        public void Jump()
+        {
+            _forcer.AddForce(_forceAmount);
+        }
+    }
+}

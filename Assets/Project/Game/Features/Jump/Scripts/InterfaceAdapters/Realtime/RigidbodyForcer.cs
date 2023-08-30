@@ -7,6 +7,11 @@ namespace Jump.InterfaceAdapters
     {
         [Header("References")] 
         [SerializeField] private Rigidbody2D _rigidbody;
+
+        public void SetRigidbody(Rigidbody2D rigidbody2D)
+        {
+            _rigidbody = rigidbody2D;
+        }
         
         public void AddForce(float force)
         {

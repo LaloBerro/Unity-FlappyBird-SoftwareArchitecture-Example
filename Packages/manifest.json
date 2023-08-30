@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.lalo.commandqueue": "https://github.com/LaloBerro/UPM-CommandQueue.git",
-    "com.lalo.commands": "https://github.com/LaloBerro/UPM-Command.git",
+    "com.lalo.commands": "https://github.com/TGL-Games/UnityPackage-Command.git",
     "com.lalo.createfolderprojectitem": "https://github.com/LaloBerro/UPM-CreateFolderProjectItem.git",
     "com.lalo.customeditors": "https://github.com/LaloBerro/UPM-CustomEditors.git",
     "com.lalo.editorcanvasview": "https://github.com/LaloBerro/UPM-CanvasView.git",

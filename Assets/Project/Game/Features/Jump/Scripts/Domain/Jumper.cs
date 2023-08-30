@@ -3,11 +3,16 @@
     public class Jumper
     {
         private readonly IForcer _forcer;
-        private readonly float _forceAmount;
+        private float _forceAmount;
 
         public Jumper(IForcer forcer, float forceAmount)
         {
             _forcer = forcer;
+            _forceAmount = forceAmount;
+        }
+
+        public void SetForceAmount(float forceAmount)
+        {
             _forceAmount = forceAmount;
         }
 

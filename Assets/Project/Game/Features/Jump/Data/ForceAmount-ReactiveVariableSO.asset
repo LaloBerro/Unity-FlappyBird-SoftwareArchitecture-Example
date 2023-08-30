@@ -13,3 +13,5 @@ MonoBehaviour:
   m_Name: ForceAmount-ReactiveVariableSO
   m_EditorClassIdentifier: 
   _defaultValue: 500
+  _testValue: 500
+  _setDirty: 0

@@ -8,11 +8,11 @@
       "hash": "82d1a4f97d579275b679dfbb5e11d78a53f572af"
     },
     "com.lalo.commands": {
-      "version": "https://github.com/LaloBerro/UPM-Command.git",
+      "version": "https://github.com/TGL-Games/UnityPackage-Command.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d99a73009492e76519634e93803c8979f34ed91b"
+      "hash": "49ea1fa95aa476a97c717c52a11c4071a80a0196"
     },
     "com.lalo.createfolderprojectitem": {
       "version": "https://github.com/LaloBerro/UPM-CreateFolderProjectItem.git",
@@ -61,7 +61,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "835e37a304ef990f35bb2231d20ca23622b41553"
+      "hash": "a1bd460a5c8b71192f1c4d55c29d357994ecf1c9"
     },
     "com.lalo.reloadassemblylock": {
       "version": "https://github.com/LaloBerro/UPM-ReloadAssemblyLock.git",

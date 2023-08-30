@@ -250,6 +250,51 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
+--- !u!1 &236604904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 236604905}
+  - component: {fileID: 236604906}
+  m_Layer: 0
+  m_Name: JumpPropertyBindingControllerInstaller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &236604905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 236604904}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 423185533}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &236604906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 236604904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb13f9a877e44504eac9ee3654d19d82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _reactiveVariable: {fileID: 11400000, guid: af2fbc801896f4e43b60832340d7a29a, type: 2}
 --- !u!1 &391191093
 GameObject:
   m_ObjectHideFlags: 0
@@ -346,6 +391,7 @@ Transform:
   - {fileID: 846060469}
   - {fileID: 2062524099}
   - {fileID: 1783117548}
+  - {fileID: 236604905}
   m_Father: {fileID: 43628686}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &423185534
@@ -365,6 +411,7 @@ MonoBehaviour:
   - {fileID: 846060470}
   - {fileID: 2062524100}
   - {fileID: 1783117549}
+  - {fileID: 236604906}
   _installerPrefabs: []
   _autoRun: 1
   _kernel: {fileID: 0}

@@ -98,6 +98,13 @@
       "dependencies": {},
       "hash": "2ec313bb664fee46c5d1ed7b6821aa7f9c3d7888"
     },
+    "com.lalo.timer": {
+      "version": "https://github.com/LaloBerro/UPM-Timer.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e97404c6ec7c525d65307eb3611f98c2f1e003ca"
+    },
     "com.lalo.zenjectextensions": {
       "version": "https://github.com/LaloBerro/UPM-ZenjectExtensions.git",
       "depth": 0,

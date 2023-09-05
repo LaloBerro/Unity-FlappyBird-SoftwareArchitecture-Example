@@ -7,7 +7,8 @@ namespace Jump.Installers
 {
     public class JumpControllerInstaller : ControllerZenjectInstaller<Jumper>
     {
-        protected override IController GetInitializedController(Jumper jumper, EventBindingViewModel eventBindingViewModel)
+        protected override IController GetInitializedController(Jumper jumper,
+            EventBindingViewModel eventBindingViewModel)
         {
             return new JumpController(eventBindingViewModel, jumper);
         }

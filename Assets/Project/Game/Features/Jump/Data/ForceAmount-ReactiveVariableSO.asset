@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 080ec9159d9e2a249a83f518ae096c3c, type: 3}
   m_Name: ForceAmount-ReactiveVariableSO
   m_EditorClassIdentifier: 
-  _defaultValue: 500
-  _testValue: 500
-  _setDirty: 0
+  _defaultValue: 200
+  _testValue: 200
+  _setDirty: 1

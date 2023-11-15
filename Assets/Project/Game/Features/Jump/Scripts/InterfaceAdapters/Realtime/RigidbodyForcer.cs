@@ -15,6 +15,8 @@ namespace Jump.InterfaceAdapters
         
         public void AddForce(float force)
         {
+            _rigidbody.velocity = Vector2.zero;
+            
             Vector2 forceUp = new Vector2(0, force);
             _rigidbody.AddForce(forceUp);
         }

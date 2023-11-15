@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.lalo.collisionsystem": {
+      "version": "https://github.com/LaloBerro/UPM-CollisionSystem.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c09b2618fc9255b499357d586e0b29ac0fecaefd"
+    },
     "com.lalo.commandqueue": {
       "version": "https://github.com/LaloBerro/UPM-CommandQueue.git",
       "depth": 0,
@@ -63,6 +70,20 @@
       "dependencies": {},
       "hash": "a1bd460a5c8b71192f1c4d55c29d357994ecf1c9"
     },
+    "com.lalo.objectpool": {
+      "version": "https://github.com/LaloBerro/UPM-ObjectPool.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9b05fb10514d292f2d92369b8111c69475ae593d"
+    },
+    "com.lalo.obstaclesgenerator": {
+      "version": "https://github.com/LaloBerro/UPM-Mechanics-ObstaclesGenerator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ffd899a4590a357f602cd7c6147db6fb6fcecce5"
+    },
     "com.lalo.reloadassemblylock": {
       "version": "https://github.com/LaloBerro/UPM-ReloadAssemblyLock.git",
       "depth": 0,
@@ -98,12 +119,19 @@
       "dependencies": {},
       "hash": "2ec313bb664fee46c5d1ed7b6821aa7f9c3d7888"
     },
+    "com.lalo.spawner": {
+      "version": "https://github.com/LaloBerro/UPM-Spawner.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b29c9054859b5566dab9962513bae9657bd8b7db"
+    },
     "com.lalo.timer": {
       "version": "https://github.com/LaloBerro/UPM-Timer.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e97404c6ec7c525d65307eb3611f98c2f1e003ca"
+      "hash": "76f058de32b0741683c54ca940d2e69b4a4c2c52"
     },
     "com.lalo.zenjectextensions": {
       "version": "https://github.com/LaloBerro/UPM-ZenjectExtensions.git",
@@ -133,7 +161,7 @@
       "dependencies": {}
     },
     "com.unity.ai.navigation": {
-      "version": "1.1.4",
+      "version": "1.1.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -142,7 +170,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.7",
+      "version": "1.8.9",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -158,7 +186,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "3.0.24",
+      "version": "3.0.25",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -167,7 +195,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.18",
+      "version": "2.0.21",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -176,7 +204,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.6.3",
+      "version": "1.7.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -208,7 +236,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "15.0.6",
+      "version": "15.0.7",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -220,14 +248,14 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "15.0.6",
+      "version": "15.0.7",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
-        "com.unity.burst": "1.8.4",
-        "com.unity.render-pipelines.core": "15.0.6",
-        "com.unity.shadergraph": "15.0.6"
+        "com.unity.burst": "1.8.9",
+        "com.unity.render-pipelines.core": "15.0.7",
+        "com.unity.shadergraph": "15.0.7"
       }
     },
     "com.unity.searcher": {
@@ -238,16 +266,16 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "15.0.6",
+      "version": "15.0.7",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "15.0.6",
+        "com.unity.render-pipelines.core": "15.0.7",
         "com.unity.searcher": "4.9.2"
       }
     },
     "com.unity.test-framework": {
-      "version": "1.3.7",
+      "version": "1.3.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {

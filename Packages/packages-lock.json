@@ -12,7 +12,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "82d1a4f97d579275b679dfbb5e11d78a53f572af"
+      "hash": "b159aa10159fcc1a06499c6bb02907aab0ebeb65"
     },
     "com.lalo.commands": {
       "version": "https://github.com/TGL-Games/UnityPackage-Command.git",
@@ -96,7 +96,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d2fb7f99a6febb748798f84eb5c99c79d3d8d119"
+      "hash": "21a5fe135bd271a50a63bfd6edc1a695c5f5f48a"
     },
     "com.lalo.scenesnavigator": {
       "version": "https://github.com/LaloBerro/UPM-ScenesNavigator.git",
@@ -186,7 +186,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "3.0.25",
+      "version": "3.0.26",
       "depth": 0,
       "source": "registry",
       "dependencies": {

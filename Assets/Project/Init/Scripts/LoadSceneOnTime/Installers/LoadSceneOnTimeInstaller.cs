@@ -1,20 +1,21 @@
-using Installers.Core;
 using ScenesLoaderSystem;
 using UnityEngine;
+using Zenject;
+using ZenjectExtensions.Zinstallers;
 
 namespace Utils
 {
-    public class LoadSceneOnTimeInstaller : MonoInstaller<LoadSceneOnTime>
+    public class LoadSceneOnTimeInstaller :  Zinstaller
     {
-        [Header("References")]
-        [SerializeField] private MonoInstaller<SceneDataLoader> _sceneDataLoaderInstaller;
-
         [Header("Config")]
         [SerializeField] private int _duration;
+        
+        [Inject]
+        private ISceneDataLoader _sceneDataLoader;
 
-        protected override LoadSceneOnTime GetData()
+        public override void Install()
         {
-            return new LoadSceneOnTime(_duration, _sceneDataLoaderInstaller.Data);
+            new LoadSceneOnTime(_duration, _sceneDataLoader);
         }
     }
 }

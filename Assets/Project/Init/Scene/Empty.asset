@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 975b2e3cb69abb0418d6d946c4a2263d, type: 3}
-  m_Name: Loading
+  m_Name: Empty
   m_EditorClassIdentifier: 
-  _sceneName: Loading
+  _sceneName: Empty
   _hasToUseLoadingScreen: 0
   _isLockedScene: 0
   _hasToRemoveLockedScenes: 0

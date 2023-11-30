@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 975b2e3cb69abb0418d6d946c4a2263d, type: 3}
   m_Name: Init
   m_EditorClassIdentifier: 
-  sceneData:
-    nameScene: Init
-    useLoadingScreen: 1
-    isLockedScene: 0
-    removeLockedScenes: 1
-    isPrincipal: 0
-    dontCloseOthersScenes: 0
-    hasToKeepOpen: 0
-    scenesData: []
-    _scenesDataToRemove: []
+  _sceneName: Init
+  _hasToUseLoadingScreen: 0
+  _isLockedScene: 0
+  _hasToRemoveLockedScenes: 0
+  _isPrincipal: 0
+  _hasToCloseOthersScenes: 0
+  _hasToKeepOpen: 0
+  _scenesDataToOpen: []
+  _scenesDataToRemove: []

@@ -12,10 +12,25 @@ EditorBuildSettings:
     path: Assets/Project/Loading/Scene/Loading.unity
     guid: b22e79afeef1ada4786ac3b91b6426c4
   - enabled: 1
-    path: Assets/Project/Game/Scenes/Game.unity
+    path: Assets/Project/Game/Main/Scenes/Main.unity
     guid: a3f5e17ff6183be41acf567be61c2fcf
   - enabled: 1
     path: Assets/Project/Init/Scene/Empty.unity
     guid: f075ecd6d90afc7408050c57e069b88a
+  - enabled: 1
+    path: Assets/Project/Game/Death/Scene/Death.unity
+    guid: f06191b31e5f58e40a4b0a78aaf86cd3
+  - enabled: 1
+    path: Assets/Project/Game/Jump/Scene/Jump.unity
+    guid: c631ab8cff8ccdc4d8aa8af647ab4b6e
+  - enabled: 1
+    path: Assets/Project/Game/Obstacles/Scene/Obstacles.unity
+    guid: 3f99af43ba565b344888ddbdc81e816f
+  - enabled: 1
+    path: Assets/Project/Game/Score/Scene/Score.unity
+    guid: 163984789085a234281151a115b0aede
+  - enabled: 1
+    path: Assets/Project/Game/TapToStart/Scene/TapToStart.unity
+    guid: a8fcda397a88a9742a6d5ed088be9bdc
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

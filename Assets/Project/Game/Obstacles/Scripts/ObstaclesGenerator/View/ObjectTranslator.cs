@@ -28,7 +28,7 @@ namespace Obstacles.View
 
         private void Update()
         {
-            transform.Translate(_velocity * _direction);
+            transform.Translate(_direction * (_velocity * Time.deltaTime));
         }
 
         private void OnDestroy()

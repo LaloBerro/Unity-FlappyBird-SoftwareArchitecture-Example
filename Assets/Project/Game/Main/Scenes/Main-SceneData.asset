@@ -10,14 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 975b2e3cb69abb0418d6d946c4a2263d, type: 3}
-  m_Name: Game-SceneData
+  m_Name: Main-SceneData
   m_EditorClassIdentifier: 
-  _sceneName: Game
+  _sceneName: Main
   _hasToUseLoadingScreen: 1
   _isLockedScene: 0
   _hasToRemoveLockedScenes: 0
   _isPrincipal: 0
   _hasToCloseOthersScenes: 1
   _hasToKeepOpen: 0
-  _scenesDataToOpen: []
+  _scenesDataToOpen:
+  - {fileID: 11400000, guid: 5787ad2d4d9919048a9b90450571d03a, type: 2}
+  - {fileID: 11400000, guid: f3b1e2ffa91dc054d959fdaf9bdc412a, type: 2}
+  - {fileID: 11400000, guid: d8b962e6bfc70c847a3822aca9adf6c5, type: 2}
+  - {fileID: 11400000, guid: 7ed9b9ccff9fc10488ab1ed6488293ba, type: 2}
+  - {fileID: 11400000, guid: a84fcb3a15e3c614bacd40482b04f5f3, type: 2}
   _scenesDataToRemove: []

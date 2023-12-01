@@ -21,10 +21,4 @@ namespace Jump.Freezers.Domain
                 _freezableObject.UnFreeze();
         }
     }
-
-    public interface IFreezableObject
-    {
-        void Freeze();
-        void UnFreeze();
-    }
 }

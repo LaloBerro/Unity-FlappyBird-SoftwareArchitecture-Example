@@ -5,17 +5,19 @@ namespace SwitcherChangers.Domain
     public class SwitcherChanger
     {
         private readonly ISwitcher _switcher;
-        private readonly bool _hasToTurnOn;
+        private bool _isTurnOn;
 
-        public SwitcherChanger(ISwitcher switcher, bool hasToTurnOn)
+        public SwitcherChanger(ISwitcher switcher, bool isTurnOn)
         {
             _switcher = switcher;
-            _hasToTurnOn = hasToTurnOn;
+            _isTurnOn = isTurnOn;
         }
 
         public void TurnSwitcher()
         {
-            if (_hasToTurnOn)
+            _isTurnOn = !_isTurnOn;
+            
+            if (_isTurnOn)
                 _switcher.TurnOn();
             else
                 _switcher.TurnOff();

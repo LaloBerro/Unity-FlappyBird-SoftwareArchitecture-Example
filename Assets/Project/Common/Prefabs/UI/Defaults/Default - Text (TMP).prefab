@@ -31,7 +31,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -68,8 +67,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Hi Bro!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 352efe3284a55d5478f4f37dffaeda9b, type: 2}
-  m_sharedMaterial: {fileID: 5783107610115414991, guid: 352efe3284a55d5478f4f37dffaeda9b, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bf6c490c2eba8064f9b0545ba5c4ebf0, type: 2}
+  m_sharedMaterial: {fileID: 7755435268911184285, guid: bf6c490c2eba8064f9b0545ba5c4ebf0, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -54,7 +54,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "557770a43f5dffc13a4458eede01f1ed513de9b6"
+      "hash": "68d820e61960979aea5e82ea6d8fd98a8c366a56"
     },
     "com.lalo.installers": {
       "version": "https://github.com/LaloBerro/UPM-Installers.git",
@@ -68,7 +68,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a1bd460a5c8b71192f1c4d55c29d357994ecf1c9"
+      "hash": "6ecc7aafd17a8d88bf496e4a0b7bee647ca7a388"
     },
     "com.lalo.objectpool": {
       "version": "https://github.com/LaloBerro/UPM-ObjectPool.git",
@@ -131,14 +131,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "76f058de32b0741683c54ca940d2e69b4a4c2c52"
+      "hash": "f331141d250c700e53bff0cb0045415f4861a7fe"
     },
     "com.lalo.zenjectextensions": {
       "version": "https://github.com/LaloBerro/UPM-ZenjectExtensions.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a4c8d1dc63ea7efb093e7cdb4cacae6e787f1ef6"
+      "hash": "b604e1f759c234e37068dd978c1f046c19d59856"
     },
     "com.marijnzwemmer.unity-toolbar-extender": {
       "version": "https://github.com/marijnz/unity-toolbar-extender.git",

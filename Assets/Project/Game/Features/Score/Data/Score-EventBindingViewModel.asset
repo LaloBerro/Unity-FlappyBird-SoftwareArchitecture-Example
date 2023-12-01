@@ -9,9 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b93b7d2d20ea9cd4585bc363fa8b2923, type: 3}
-  m_Name: Score-ReactiveVariableSO
+  m_Script: {fileID: 11500000, guid: 94395d47e5651744181351771dee9729, type: 3}
+  m_Name: Score-EventBindingViewModel
   m_EditorClassIdentifier: 
-  _defaultValue: 0
-  _testValue: 
-  _setDirty: 0

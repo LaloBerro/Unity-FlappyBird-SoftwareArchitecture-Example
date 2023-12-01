@@ -1,0 +1,16 @@
+{
+    "name": "Jump.Runtime.Freezer.InterfaceAdapters.Realtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4d1b3aab7bbcf742b61186d8f848cf5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

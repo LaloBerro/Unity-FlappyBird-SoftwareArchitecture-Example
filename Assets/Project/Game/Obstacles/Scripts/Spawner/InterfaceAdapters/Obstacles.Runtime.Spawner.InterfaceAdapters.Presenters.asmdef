@@ -1,0 +1,19 @@
+{
+    "name": "Obstacles.Runtime.Spawner.InterfaceAdapters.Presenters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6dfcbc8ee16e69b4ea1b290c592903ab",
+        "GUID:ce709ff7daab6dc4d8baf0cc7c1f0132",
+        "GUID:731d9ebb4899ecb4fb0862105924ed3b",
+        "GUID:279e3889379e55f409f99f2af06beab0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

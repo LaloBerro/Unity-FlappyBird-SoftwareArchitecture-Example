@@ -1,0 +1,23 @@
+{
+    "name": "Death.Runtime.SwitcherChanger.Installers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea6c1a771efe4154a8d3273abd54c099",
+        "GUID:0e07c921b8e4af84eb58501b1fcab89a",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:95caa6f1ec6db5b41a88392eafc31406",
+        "GUID:e987dc5058507b9469fad6f753af2410",
+        "GUID:9a72f7cb9eb427f48841ec973b8e4ed2",
+        "GUID:fc68875a11abe7b4f9dbaad3365c3068",
+        "GUID:936fc9e3e9b06344dbf5a87fa14d19c8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

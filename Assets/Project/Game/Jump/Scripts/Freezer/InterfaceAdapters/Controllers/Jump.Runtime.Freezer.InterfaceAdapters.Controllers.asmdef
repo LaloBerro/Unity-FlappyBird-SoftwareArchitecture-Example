@@ -1,0 +1,18 @@
+{
+    "name": "Jump.Runtime.Freezer.InterfaceAdapters.Controllers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4d1b3aab7bbcf742b61186d8f848cf5",
+        "GUID:936fc9e3e9b06344dbf5a87fa14d19c8",
+        "GUID:e987dc5058507b9469fad6f753af2410"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

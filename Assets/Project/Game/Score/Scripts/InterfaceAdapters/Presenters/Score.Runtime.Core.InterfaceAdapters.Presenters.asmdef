@@ -1,0 +1,17 @@
+{
+    "name": "Score.Runtime.Core.InterfaceAdapters.Presenters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:57cd9dbb611f9f14f8afdaf9623986ff",
+        "GUID:f2dda65dfb8468844bca0d401ec2a3b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

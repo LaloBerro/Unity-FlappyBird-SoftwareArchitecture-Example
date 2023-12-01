@@ -1,0 +1,16 @@
+{
+    "name": "Death.Runtime.SwitcherChanger.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fc68875a11abe7b4f9dbaad3365c3068"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

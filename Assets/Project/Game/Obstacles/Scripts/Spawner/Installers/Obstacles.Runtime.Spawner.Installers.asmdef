@@ -1,0 +1,25 @@
+{
+    "name": "Obstacles.Runtime.Spawner.Installers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9a72f7cb9eb427f48841ec973b8e4ed2",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:2a4db294f86b9b94098a87007111c822",
+        "GUID:731d9ebb4899ecb4fb0862105924ed3b",
+        "GUID:ce709ff7daab6dc4d8baf0cc7c1f0132",
+        "GUID:0a3ae2ba894d42342b9d7c6348029878",
+        "GUID:6dfcbc8ee16e69b4ea1b290c592903ab",
+        "GUID:f8912ddcca4d243408faf18e2f3ed1ce",
+        "GUID:aca92fa7cc9028249bced9154c29521e",
+        "GUID:279e3889379e55f409f99f2af06beab0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
